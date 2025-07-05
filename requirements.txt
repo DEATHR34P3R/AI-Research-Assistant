@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 langchain-core
 langchain-together
 langchain-text-splitters
@@ -8,4 +9,4 @@ sentence-transformers
 together
 pdfplumber
 huggingface-hub
-toml 
+toml
