@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.1.14
 langchain-community
 langchain-core
 langchain-together
