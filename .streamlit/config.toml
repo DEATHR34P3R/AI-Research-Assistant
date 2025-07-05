@@ -1,0 +1,26 @@
+[theme]
+
+base = "dark"
+
+primaryColor = "#1ED760"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#2A2A2A"
+textColor = "#F5F5DC"
+linkColor = "#2A2A2A"
+
+codeBackgroundColor = "#1A1A1A"
+
+font = "sans-serif"
+codeFont = "monospace"
+headingFont = "sans-serif"
+
+baseRadius = "medium"
+buttonRadius = "small"
+
+borderColor = "#1ED660"
+dataframeBorderColor = "#1ED660"
+
+showWidgetBorder = true
+showSidebarBorder = true
+
+baseFontSize = 16
