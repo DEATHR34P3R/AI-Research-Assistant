@@ -1,0 +1,26 @@
+# .streamlit/config_light.toml
+
+[theme]
+base = "light"
+
+primaryColor = "#1ED760"
+backgroundColor = "#FFFDF5"  # soft light cream
+secondaryBackgroundColor = "#F2F2E9"
+textColor = "#111111"
+linkColor = "#008080"
+codeBackgroundColor = "#f4f4f4"
+
+font = "sans-serif"
+codeFont = "monospace"
+headingFont = "sans-serif"
+
+baseRadius = "medium"
+buttonRadius = "small"
+
+borderColor = "#DDDDDD"
+dataframeBorderColor = "#CCCCCC"
+
+showWidgetBorder = true
+showSidebarBorder = true
+
+baseFontSize = 16
