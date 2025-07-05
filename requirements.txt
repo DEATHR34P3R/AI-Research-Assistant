@@ -1,8 +1,8 @@
 streamlit
-langchain==0.3.26
-langchain-core==0.3.26
+langchain
+langchain-core
 langchain-together
-langchain-text-splitters==0.3.26
+langchain-text-splitters
 faiss-cpu
 sentence-transformers
 together
