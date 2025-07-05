@@ -1,4 +1,4 @@
-# AI Research Assistant(https://mainpy-g9pwsd8jibbnkn4q3oamj4.streamlit.app/)
+# [AI Research Assistant](https://mainpy-g9pwsd8jibbnkn4q3oamj4.streamlit.app/)
 
 ## Overview
 
