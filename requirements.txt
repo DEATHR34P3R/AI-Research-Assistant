@@ -9,3 +9,4 @@ sentence-transformers
 together
 pdfplumber
 huggingface-hub
+toml 
