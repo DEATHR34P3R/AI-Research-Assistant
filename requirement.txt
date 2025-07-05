@@ -1,6 +1,6 @@
 streamlit
-langchain==0.1.14
-langchain-community
+langchain==0.3.26
+langchain-community==0.0.26
 langchain-core
 langchain-together
 langchain-text-splitters
